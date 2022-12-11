@@ -72,6 +72,21 @@ No `navbar` foi implementado a lógica que, se a url conter a string `login` o f
 
 ![code 3](https://github.com/beatrizmayorka/catoflix_api/blob/Master/catoflix/img/code3.png)
 
+## Requisitos funcionais
+
+* [RF-01] O sistema deve permitir a busca de qualquer produto audiovisual.
+* [RF-02] Deve permitir que o usuário faça Log In através de sua conta no Facebook.
+* [RF-03] O sistema deve manter o usuário logando enquanto está acessando outras páginas da aplicação.
+* [RF-04] O sistema deve realizar o logout do usuário assim que ele apertar no botão de saída.
+* [RF-05] Deve mostrar o ranking por ordem de mais favoritado.
+
+## Requisitos não funcionais
+
+* [RFN-01] O sistema deve ser acessado via web.
+* [RFN-02] Deve ser programado em JavaScript e React
+* [RFN-03] O sistema deve conectar-se a duas APIs distintas.
+* [RFN-04] O usuário deve ser informado caso haja algum erro de sistema ou Log In.
+
 ## Diagrama de caso de uso
 
 ###### O diagrama abaixo representa um caso de uso com as funcionalidades da aplicação enquanto o usuário está acessando a interface gráfica.
@@ -80,7 +95,7 @@ No `navbar` foi implementado a lógica que, se a url conter a string `login` o f
 
 ## Arquitetura do Projeto
 
-###### A aplicação foi desenvolvida na linguagem JavaScript e utiliza a biblioteca React.JS, a qual permitiu o desenvolvimento de componentes de estado no código. A arquitetura escolhida foi REST (Representational State Transfer), um estilo arquitetônico usado para desenvolver software distribuído baseado em comunicação por rede.
+A aplicação foi desenvolvida na linguagem JavaScript e utiliza a biblioteca React.JS, a qual permitiu o desenvolvimento de componentes de estado no código. A arquitetura escolhida foi REST (Representational State Transfer), um estilo arquitetônico usado para desenvolver software distribuído baseado em comunicação por rede.
 
 ![Arquitetura](catoflix/img/arquitetura.png)
 
