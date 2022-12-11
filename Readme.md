@@ -32,6 +32,17 @@ Catoflix é um portal que dispõe o ranking de melhores produtos audiovisuais. E
 
 ## Como rodar o projeto
 
+O Log In na aplicação só funcionará após realizar uma configuração no site [Meta for Developers](https://developers.facebook.com/). 
+Deve ser realizado o Log In e após isso, deverá ser realizado o passo a passo como mostra neste tutorial -> [Youtube](https://www.youtube.com/watch?v=BHB4ZZhuKEE)
+
+Quando estiver com a conta do Facebook logada no site, deverá colocar o seu ID na linha de código sublinhada em vermelho. Segue abaixo:
+
+![appID](https://github.com/beatrizmayorka/catoflix_api/blob/Master/catoflix/img/appID.png)
+
+Agora é possível realizar a conexão.
+
+### Execução do projeto
+
 Ao clonar meu projeto em sua máquina, execute os comandos `npm install` e `npm install vite` para instalar as depêndencias do projeto, como mostra a seguir: 
 
 ![Dependências](https://github.com/beatrizmayorka/catoflix_api/blob/Master/catoflix/img/dependencias.png)
