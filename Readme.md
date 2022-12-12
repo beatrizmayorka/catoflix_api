@@ -158,6 +158,11 @@ A aplicação foi desenvolvida na linguagem JavaScript e utiliza a biblioteca Re
 
 A maior dificuldade no desenvolvimento do portifólio foi conseguir realizar a integração de tudo o que foi aprendido durante os semestres. Muito do que se é passado vai sendo esquecido com o tempo e conforme não utilizamos no dia-a-dia, por isso acredito que tenha demandado esforço em buscar conteúdo para aprender, dedicação e tempo para realizar cada etapa até aqui.
 
+## Aprendizados
+  O projeto de portifólio foi de grande valia no semestre, deixou claro que precisamos buscar conhecimento e foi muito organizado para o resultado obtido até aqui.
+ Quanto ao tempo de realização, acredito que quanto mais deixamos pra última hora, mais trabalho temos a realizar e, muitas vezes deixamos de entregar coisas simples e que se tivesse dedicado mais tempo teria sido entregue.
+  Ganhei conhecimentos sobre APIs, camadas de persistência e como gerar um trabalho mais enriquecido e com pouco tempo para desenvolver. Trouxe conhecimentos ganhos no meu estágio de TI, na Krona. 
+  
 ## Considerações finais
 
 Desde que iniciei o primeiro semestre e tive contato com programação web, achei super interessante. Nunca gostei de construir backend e olhando para o mercado, as empresas buscam alguém que seja especialista em uma área da programação. O processo de chegar até aqui pode ser doloroso, principalmente quando sempre precisamos nos manter atualizados sobre as tecnologias que o mercado está apontando. Este é o maior desafio. Deixo aqui o meu agradecimento a todos que contribuíram para a minha evolução. 
