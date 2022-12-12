@@ -1,18 +1,12 @@
 # Catoflix
 
-Catoflix é um portal que dispõe o ranking de melhores produtos audiovisuais. Esta aplicação consome duas APIs. Uma API externa e pública de filmes e tv shows, com acesso disponibilizado a partir de uma key (chave) disponibilizada somente para esta aplicação, através de uma requisição de API no site do The Movie Database (TMDB). Já
- a outra API é a do Facebook, que fornece acesso à rede social para que seja realizado o acesso no portal através de Log In.
-
-* [TMDB](https://www.themoviedb.org/)
-* [Meta for Developers](https://developers.facebook.com/)
-
 ## Instituição Educacional
 
 > [Centro Universitário Católica de Santa Catarina](https://www.catolicasc.org.br/)
 
 ## Autora do Projeto
 
-> [Beatriz Mayorka de Aguiar](https://r.search.yahoo.com/_ylt=AwrFFBHUbpNjd.kKuDfz6Qt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1670635349/RO=10/RU=https%3a%2f%2fbr.linkedin.com%2fin%2fbeatriz-mayorka-de-aguiar-a40951198/RK=2/RS=HrNrLjPq9NAs0X_mJL3nVV95YUw-)
+> [Beatriz Mayorka de Aguiar](https://br.linkedin.com/in/beatriz-mayorka-de-aguiar-a40951198)
 
 ## Professor Orientador
 
@@ -22,13 +16,36 @@ Catoflix é um portal que dispõe o ranking de melhores produtos audiovisuais. E
 
 * [Kanban do Projeto](https://trello.com/b/OHCqcUeJ/portif%C3%B3lio-de-projeto)
 
+### O que é o Catoflix?
+
+Catoflix é um portal que dispõe o ranking de melhores produtos audiovisuais. Esta aplicação consome duas APIs. Uma API externa e pública de filmes e tv shows, com acesso disponibilizado a partir de uma key (chave) disponibilizada somente para esta aplicação, através de uma requisição de API no site do The Movie Database (TMDB). Já a outra API é a do Facebook, que fornece acesso à rede social para que seja realizado o acesso no portal através de Log In.
+
+* [TMDB](https://www.themoviedb.org/)
+* [Meta for Developers](https://developers.facebook.com/)
+
+### Para que serve? 
+
+Com a plataforma o usuário pode verificar qual é o melhor programa ou filme do momento para ele assistir, pode pesquisar algum filme que tenha assistido e receberá informações relevantes, como quanto foi gasto para produzir o filme, quanto foi o lucro obtido, qual a descrição do filme e qual foi a porcentagem de estrelas que este obteve pelo público.
+
 ## Objetivo do Projeto
 
-###### Este projeto teve como objetivo criar um portal, onde o usuário pudesse visualizar o ranking de melhores filmes do momento. Ele teria a possilidade de visualizar as informações sobre o filme, poderia pesquisar qualquer filme de sua escolha e teria o retorno do mesmo. 
+Este projeto teve como objetivo criar um portal, onde o usuário pudesse visualizar o ranking de melhores filmes do momento. Ele teria a possilidade de visualizar as informações sobre o filme, poderia pesquisar qualquer filme de sua escolha e teria o retorno do mesmo. Para que o usuário obtivesse acesso às informormações, seria necessário que o projeto consumisse uma API externa e aberta ao público, que contivesse os filmes, tv shows, etc..., e informações sobre eles.
 
-###### Para que o usuário obtivesse acesso às informormações, seria necessário que o projeto consumisse uma API externa e aberta ao público, que contivesse os filmes, tv shows, etc..., e informações sobre eles.
+## Roadmap
 
-###### A aplicação apresenta a interface onde o usuário pode visualizar o ranking de melhores produtos audiovisuais disponíveis, pesquisar o produto audiovisual de sua escolha e visualizar informações sobre o mesmo, estas que, por sua vez, estão em inglês por serem informações vindas de uma API de fora.  
+O projeto continua a ser desenvolvido, buscando a melhoria contínua e implementações de qualidade que visem a melhor experiência do usuário no portal. 
+
+- [x] Definir escopo do projeto.
+- [x] Escolher as liguagens a serem utilizadas.
+- [x] Iniciar a tela `Home`.
+- [x] Construir cards e integração para conexão com a API.
+- [x] Conectar API TMDB ao projeto
+- [x] Implementar log in no portal via Facebook.
+- [x] Conectar API do Facebook na aplicação.
+- [x] Criar camada de persistência.
+- [ ] Criar uma tela de cadastro do usuário.
+- [ ] Implementar redefinição de senha e envio de link de recuperação via email.
+- [ ] Apresentação para a banca.
 
 ## Como rodar o projeto
 
@@ -136,3 +153,11 @@ A aplicação foi desenvolvida na linguagem JavaScript e utiliza a biblioteca Re
 ![Tela search 1](https://github.com/beatrizmayorka/catoflix_api/blob/Master/catoflix/img/pesquisa_filme_1.png)
 
 ![Tela search 2](https://github.com/beatrizmayorka/catoflix_api/blob/Master/catoflix/img/pesquisa_filme_2.png)
+
+## Dificuldades 
+
+A maior dificuldade no desenvolvimento do portifólio foi conseguir realizar a integração de tudo o que foi aprendido durante os semestres. Muito do que se é passado vai sendo esquecido com o tempo e conforme não utilizamos no dia-a-dia, por isso acredito que tenha demandado esforço em buscar conteúdo para aprender, dedicação e tempo para realizar cada etapa até aqui.
+
+## Considerações finais
+
+Desde que iniciei o primeiro semestre e tive contato com programação web, achei super interessante. Nunca gostei de construir backend e olhando para o mercado, as empresas buscam alguém que seja especialista em uma área da programação. O processo de chegar até aqui pode ser doloroso, principalmente quando sempre precisamos nos manter atualizados sobre as tecnologias que o mercado está apontando. Este é o maior desafio. Deixo aqui o meu agradecimento a todos que contribuíram para a minha evolução. 
