@@ -31,6 +31,10 @@ Com a plataforma o usuário pode verificar qual é o melhor programa ou filme do
 
 Este projeto teve como objetivo criar um portal, onde o usuário pudesse visualizar o ranking de melhores filmes do momento. Ele teria a possibilidade de visualizar as informações sobre o filme, poderia pesquisar qualquer filme de sua escolha e teria o retorno do mesmo. Para que o usuário obtivesse acesso às informações, seria necessário que o projeto consumisse uma API externa e aberta ao público, que contivesse os filmes, tv shows, etc..., e informações sobre eles.
 
+## Qualidade do Código
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=beatrizmayorka_catoflix_api&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=beatrizmayorka_catoflix_api)
+
 ## Roadmap
 
 O projeto continua a ser desenvolvido, buscando a melhoria contínua e implementações de qualidade que visem a melhor experiência do usuário no portal. 
